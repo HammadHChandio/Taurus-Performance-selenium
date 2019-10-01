@@ -1,0 +1,5 @@
+﻿execution:
+- executor: selenium
+  iterations: 1
+  scenario:
+    script: bin\Release\TaurusPerformance.dll

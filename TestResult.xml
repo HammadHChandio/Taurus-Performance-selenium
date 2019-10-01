@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.10.0.0" clr-version="4.0.30319.42000" start-time="2019-09-30 15:36:22Z" end-time="2019-09-30 15:36:36Z" duration="13.614322">
+  <command-line><![CDATA[nunit3-console  bin\Release\TaurusPerformance.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1002" name="TaurusPerformance.dll" fullname="C:\Users\hamma\source\repos\TaurusPerformance\bin\Release\TaurusPerformance.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-09-30 15:36:23Z" end-time="2019-09-30 15:36:36Z" duration="12.543086" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="3.10.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.18362.0" platform="Win32NT" cwd="C:\Users\hamma\source\repos\TaurusPerformance" machine-name="DESKTOP-N7P9NCQ" user="hamma" user-domain="DESKTOP-N7P9NCQ" culture="en-GB" uiculture="en-GB" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\hamma\source\repos\TaurusPerformance" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.7.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="17264" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1003" name="TaurusPerformance" fullname="TaurusPerformance" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-09-30 15:36:23Z" end-time="2019-09-30 15:36:36Z" duration="12.505813" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="TestFixture" id="0-1000" name="UnitTest1" fullname="TaurusPerformance.UnitTest1" classname="TaurusPerformance.UnitTest1" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-09-30 15:36:23Z" end-time="2019-09-30 15:36:36Z" duration="12.496992" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+        <test-case id="0-1001" name="TestMethod1" fullname="TaurusPerformance.UnitTest1.TestMethod1" methodname="TestMethod1" classname="TaurusPerformance.UnitTest1" runstate="Runnable" seed="1542778351" result="Passed" start-time="2019-09-30 15:36:23Z" end-time="2019-09-30 15:36:36Z" duration="12.475937" asserts="0" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
